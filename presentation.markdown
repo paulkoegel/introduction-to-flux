@@ -52,5 +52,6 @@ comparison of Flux implementations:
 + [http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 
 global app state:
++ [https://justin.harmonize.fm/development/2014/08/05/om-and-flux.html](https://justin.harmonize.fm/development/2014/08/05/om-and-flux.html)
 + [https://gist.github.com/paulwittmann/9880692](https://gist.github.com/paulwittmann/9880692)
 + [http://blog.circleci.com/local-state-global-concerns](http://blog.circleci.com/local-state-global-concerns)
