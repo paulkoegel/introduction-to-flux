@@ -35,6 +35,16 @@ background-image: url(images/flux-diagram.png)
 
 ---
 
+## Some Flux Implementations
+
++ [Reflux](https://github.com/spoike/refluxjs)
++ [Flummox](https://github.com/acdlite/flummox)
++ [alt](https://github.com/goatslacker/alt)
+
+... and many more
+
+---
+
 
 ## Links - Part 1
 
