@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Brief Notes on Flux</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" media="all" href="styles.css" />
+    <link rel="shortcut icon" href="favicon.png" type="image/png" />
+  </head>
+
+  <body>
+    <script src="remark.0.10.2.min.js"></script>
+    <script src='react.min.js'></script>
+    <script src='jsx-transformer.js'></script>
+    <script type="text/javascript">
+      var slideshow = remark.create({
+        sourceUrl: 'presentation.markdown',
+        highlightLanguage: 'javascript',
+        highlightStyle: 'idea',
+        navigation: {
+          scroll: false
+        },
+        ratio: '16:9',
+        slideNumberFormat: ''
+        });
+    </script>
+  </body>
+
+</html>
